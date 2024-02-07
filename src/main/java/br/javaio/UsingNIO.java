@@ -16,7 +16,7 @@ public class UsingNIO {
             + File.separator + "UTFPR"
             + File.separator + "Java II"
             + File.separator + "io"
-            + File.separator + "file-using-io.txt";
+            + File.separator + "file-using-nio.txt";
 
     public UsingNIO() {
         try {
